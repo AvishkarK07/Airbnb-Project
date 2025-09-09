@@ -1,4 +1,5 @@
 # Airbnb-Project
+[View my Kaggle Project](https://www.kaggle.com/code/avishkarkokateak/airbnb-paris-analysis)
 ![Stunning Paris Airbnb](https://images.squarespace-cdn.com/content/v1/5e72c8bfe21ad940ba788673/1630666748545-NK6FLLV0SA7I4F2L5VQ7/airbnb-luxe-explained-thumbnail.jpg)
 
 # 🏠 Airbnb Paris Analysis
