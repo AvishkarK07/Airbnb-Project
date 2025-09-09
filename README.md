@@ -93,7 +93,7 @@ Here are some key visualizations from the analysis:
   ![Listings Growth](https://github.com/AvishkarK07/Airbnb-Project/blob/main/Folder/listings_growth.png)
 
 * **Average Price by Locality**
-  ![Price by Locality](https://github.com/AvishkarK07/Airbnb-Project/blob/main/Folder/regulation_impact.png)
+  ![Price by Locality](https://github.com/AvishkarK07/Airbnb-Project/blob/main/Folder/price_locality.png)
 
 * **Impact of 2017 Regulation on Host Entries**
   ![Regulation Impact](https://github.com/AvishkarK07/Airbnb-Project/blob/main/Folder/regulation_impact.png)
